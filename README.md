@@ -1,4 +1,4 @@
-#Arabic-Sentiment-Analysis-NLP 
+# Arabic-Sentiment-Analysis-NLP 
 
 Can find the competition here: https://www.kaggle.com/competitions/nn23-arabic-sentiment-analysis-nlp/overview
 
