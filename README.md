@@ -16,28 +16,31 @@
 
 # Technologies Used
   •	Programming Language: Python
+  
   •	Libraries and Frameworks: TensorFlow, Keras, Pandas, NumPy, Scikit-learn, NLTK
+  
   •	NLP Techniques: Tokenization, stemming, stop-word removal, and text vectorization
 
 
 
-Installation
-  # 1. Clone the Repository:
+# Installation
+  **1. Clone the Repository:**
     git clone https://github.com/Malakismail/Arabic-Sentiment-Analysis-NLP.git
     cd Arabic-Sentiment-Analysis-NLP
 
-  # 2. Install Dependencies:
+  **2. Install Dependencies:**
     pip install -r requirements.txt
 
-  # 3. Prepare the Dataset:
+  **3. Prepare the Dataset:**
    •	Use a dataset with labeled Arabic text for training and testing.
    •	Place the dataset in the data/ directory.
 
-  # 4. Run the Project:
-    •	# Train the model: 
+  **4. Run the Project:**
+  
+    # Train the model: 
           python train_model.py
-
-    •	# Test the model:
+          
+    # Test the model:
           python test_model.py
 
 
