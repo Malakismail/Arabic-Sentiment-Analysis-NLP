@@ -61,12 +61,6 @@
 
 
 
-# Contributing
-
-Contributions are welcome! Fork the repository, create a branch for your feature or bug fix, and submit a pull request.
-
-
-
 # achieved the **6th** Place Natural Language Processing Competition 
 Our team has achieved the **6th** 𝐑𝐚𝐧𝐤 of the competition 
 2023- 2024 out of **104** teams at faculty of computer and
@@ -75,3 +69,11 @@ information sciences Ain Shams University.
 **Can find the competition here:** https://www.kaggle.com/competitions/nn23-arabic-sentiment-analysis-nlp/overview
 
 
+
+# Contributing
+Contributions are welcome! Fork the repository, create a branch for your feature or bug fix, and submit a pull request.
+
+
+
+# Contact
+For any inquiries or support, please contact malakismail706@gmail.com
